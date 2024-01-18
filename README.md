@@ -32,6 +32,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dlibrechat"><img src="https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg" alt="Deploy on Sealos"/></a>
+</p>
+
 # 📃 Features
  - 🖥️ UI matching ChatGPT, including Dark mode, Streaming, and 11-2023 updates
  - 💬 Multimodal Chat:
